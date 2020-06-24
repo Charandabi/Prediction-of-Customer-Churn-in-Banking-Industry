@@ -22,3 +22,13 @@ Current data doesn’t have any missing value in none of its 10000 observations 
  - Discussion
  
 # Required Libraries
+- ggplot2
+- e1071
+- caret 
+- class 
+- e1071 
+- rpart 
+- rpart.plot 
+- randomForest 
+- nnet 
+- DMwR 
