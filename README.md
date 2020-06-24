@@ -11,7 +11,7 @@ Out of 13 variables, CustomerId and Surname need to be removed as they don’t h
 
 Current data doesn’t have any missing value in none of its 10000 observations and thus, there won’t be any concern in this regard. However, customers who stayed with banks (7963 customers) are around four times the number of those who left (2037 customers). Therefore, data is imbalance with respect to the outcome variable and this concern needs to be addressed in the modeling section.
 
-# Outline 
+# Outline of the Project
 - Data Pre-Processing
 - Exploratory Data Analysis
 - Analysis
